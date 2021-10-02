@@ -31,7 +31,7 @@ def play(secreta, oculto):
     winner = False
     vidas = '🧡💛💚💙💜🤎🖤💗💖'
     ingreso = ''
-    bienvenida = 'Bienveido al juego del ahorcado, tiene que adivinar la palabra antes de agotar las 20 vidas' \
+    bienvenida = 'Bienveido al juego del ahorcado!!!, tiene que adivinar la palabra antes de agotar las 20 vidas' \
                  ' buena suerte 😎 😎 😎 !!!'
     print(bienvenida)
 
